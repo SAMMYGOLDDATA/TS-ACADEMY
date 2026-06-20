@@ -163,3 +163,7 @@ Aspiring Data Analyst skilled in:
 ### Connect With Me
 
 * LinkedIn: www.linkedin.com/in/samson-o-ogunniyi-0130073ab
+  
+## Dashboard Preview
+
+![Sales Dashboard](dashboard.png)
