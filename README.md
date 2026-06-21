@@ -167,3 +167,11 @@ Aspiring Data Analyst skilled in:
 ## Dashboard Preview
 
 ![Sales Dashboard](dashboard.png)
+
+## Project Files
+
+| File | Description |
+|------|-------------|
+| SAMSON OGUNNIYI FIRST PROJECT.xlsx | Original dataset and analysis |
+| Dashboard.png | Dashboard screenshot |
+| README.md | Project documentation |
