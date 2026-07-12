@@ -1,5 +1,3 @@
-</> Markdown
-
 # 📊 Excel Data Analysis Assignment – Employee Dataset
 
 ## 📌 Project Overview
