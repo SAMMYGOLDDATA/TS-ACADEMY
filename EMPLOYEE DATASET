@@ -1,0 +1,104 @@
+# 📊 Excel Data Analysis Assignment – Employee Dataset
+
+## 📌 Project Overview
+
+This project demonstrates the use of Microsoft Excel functions and formatting techniques to clean, transform, and analyze employee data. The assignment focuses on improving spreadsheet presentation, applying text manipulation functions, performing conditional calculations, and generating summary statistics using built-in Excel formulas.
+
+## 🎯 Objectives
+
+* Apply professional spreadsheet formatting.
+* Extract and manipulate text using Excel functions.
+* Generate employee email addresses automatically.
+* Perform descriptive and conditional calculations.
+* Demonstrate proficiency with essential Excel formulas.
+
+## 🛠️ Tools Used
+
+* Microsoft Excel
+
+## 📂 Dataset
+
+The dataset contains employee information, including:
+
+* Employee ID
+* Full Name
+* Department
+* Job Title
+* Gender
+* Salary
+* Years of Experience
+* City
+
+## ✅ Tasks Completed
+
+### 1. Spreadsheet Formatting
+
+* Bolded table headers.
+* Applied borders to the dataset.
+* Added background color to the header row.
+* Formatted the Salary column as Currency.
+
+### 2. Text Functions
+
+* Extracted First Name from the Full Name column.
+* Extracted Last Name from the Full Name column.
+* Generated employee email addresses in the format:
+  `firstname.lastname@dame.com`
+* Calculated the length of each employee's full name.
+* Converted text to UPPERCASE.
+* Converted text to lowercase.
+* Applied Proper Case formatting.
+* Removed unnecessary spaces using the TRIM function.
+
+### 3. Statistical Functions
+
+The following Excel functions were used:
+
+* SUM
+* AVERAGE
+* COUNTA
+* SUMIF
+* AVERAGEIF
+* SUMIFS
+* AVERAGEIFS
+* COUNTIFS
+* MAXIFS
+
+## 📈 Skills Demonstrated
+
+* Data Formatting
+* Text Manipulation
+* Data Cleaning
+* Conditional Calculations
+* Statistical Analysis
+* Spreadsheet Organization
+* Excel Formula Writing
+
+## 📚 Key Excel Functions Used
+
+* LEFT
+* RIGHT
+* MID
+* FIND
+* LEN
+* LOWER
+* UPPER
+* PROPER
+* TRIM
+* SUM
+* AVERAGE
+* COUNTA
+* SUMIF
+* AVERAGEIF
+* SUMIFS
+* AVERAGEIFS
+* COUNTIFS
+* MAXIFS
+
+## 🚀 Project Outcome
+
+This assignment strengthened practical Excel skills by combining data cleaning, text transformation, formatting, and analytical functions to produce a well-structured and informative employee dataset.
+
+---
+
+**Author:** Samson Ogunniyi
