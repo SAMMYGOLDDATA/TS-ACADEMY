@@ -154,21 +154,7 @@ This model improves report performance and enables efficient filtering across vi
 - Introduce promotional strategies for lower-performing brands.
 - Monitor regional sales to identify growth opportunities.
 
----
 
-## 📸 Dashboard Preview
-
-> **Add your dashboard screenshot here**
-
-```
-Images/dashboard.png
-```
-
-```markdown
-![Dashboard Preview](Images/dashboard.png)
-```
-
----
 
 ## 📁 Repository Structure
 
